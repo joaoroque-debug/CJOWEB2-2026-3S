@@ -1,0 +1,18 @@
+package Atividade02;
+
+import javax.swing.JOptionPane;
+
+/**
+ * atividade001
+ */
+public class atividade001 {
+
+    public static void main(String[] args) {
+        
+        int age = Integer.parseInt(JOptionPane.showInputDialog("Informe sua idade = "));
+
+        
+
+    }
+    
+}
